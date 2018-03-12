@@ -4,9 +4,11 @@
     <ClCompile Include="Player.cpp" />
     <ClCompile Include="Weapon.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Rifle.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Player.h" />
     <ClInclude Include="Weapon.h" />
+    <ClInclude Include="Rifle.h" />
   </ItemGroup>
 </Project>

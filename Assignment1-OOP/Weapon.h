@@ -10,4 +10,5 @@ public:
 	~Weapon();
 
 	int getType();
+	void setType(int newType);
 };

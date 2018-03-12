@@ -21,3 +21,8 @@ Weapon::~Weapon()
 int Weapon::getType() {
 	return type;
 }
+
+///set type of weapon
+void Weapon::setType(int newType) {
+	type = newType;
+}
